@@ -1,0 +1,44 @@
+[
+  {
+    "id": "12345",
+    "title": "Pup - Baby Seal (Original)",
+    "imageUrl": "https://media.istockphoto.com/id/1049444220/photo/seal-pup-on-the-beach-as-part-of-the-seal-colony-at-horsey-norfolk.jpg?s=612x612&w=0&k=20&c=wIyIIaer34HDLhqvmY-vRZ3ECwFLGRJYv8OOgsHg26A=",
+    "description": "New born baby seals with yellow fur and blubber, weighed at around 11kg.    ",
+    "price": "129.99"
+  },
+  {
+    "id": "0.15713892982156663",
+    "title": "Pup - Baby Sea Otters",
+    "imageUrl": "https://helios-i.mashable.com/imagery/videos/04oy0MULgLpUw2UmCLwlNBk/hero-image.fill.size_1248x702.v1614265152.jpg",
+    "description": "Baby sea otters can float on the water's surface, due to their dense and fluffy fur. ",
+    "price": "89.99"
+  },
+  {
+    "id": "0.729663552934392",
+    "title": "Pup - Baby Capybara",
+    "imageUrl": "https://animalfactguide.com/wp-content/uploads/2024/01/capybara3.jpg",
+    "description": "Baby capybara excellent swimmers, and can remain completely submerged for up to five minutes. ",
+    "price": "79.90"
+  },
+  {
+    "id": "0.5155468240622298",
+    "title": "Chicks - Baby Penguin",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUEXXpggkIi-26PK2KC5kKnuSr-rXZuvs1ww&s",
+    "description": " Baby penguins are covered in soft, downy feathers and have a distinctive waddle.  ",
+    "price": "119.90"
+  },
+  {
+    "id": "0.19911996417049282",
+    "title": "Hoglets - Baby Hedgehog",
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/hedgehogs-1590573789.jpg",
+    "description": " Baby hedgehogs are covered in soft, white quills. ",
+    "price": "59.90"
+  },
+  {
+    "id": "0.7373295570016054",
+    "title": "Cubs - Baby Panda",
+    "imageUrl": "https://w0.peakpx.com/wallpaper/441/620/HD-wallpaper-sleeping-small-panda-cute-animals-baby-panda-ailuropoda-melanoleuca-panda-on-branch-panda.jpg",
+    "description": " Baby pandas have a thick coat of black and white fur.",
+    "price": "159.90"
+  }
+]
